@@ -2,7 +2,7 @@ import React from 'react';
 import Fade from 'react-reveal/Fade';
 import styles from './index.module.css';
 import { Link } from 'react-router-dom';
-import resume from '../../static/WinggoTse_Resume.pdf';
+import resume from '../../static/Winggo-Tse-Resume.pdf';
 
 import github from '../../static/icons/github.png';
 import linkedin from '../../static/icons/linkedIn.png';

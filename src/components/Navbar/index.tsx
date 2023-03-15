@@ -1,7 +1,7 @@
 import React from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
-import resume from '../../static/WinggoTse_Resume.pdf';
+import resume from '../../static/Winggo-Tse-Resume.pdf';
 import { Container } from 'react-bootstrap';
 import styles from './index.module.css';
 
